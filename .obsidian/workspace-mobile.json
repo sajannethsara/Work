@@ -11,10 +11,12 @@
             "id": "43d4270dcc3e7e9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/Drawing 2025-10-07 02.04.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-07 02.04.55.excalidraw"
             }
           }
         ]
@@ -94,6 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Drawings/Drawing 2025-10-07 02.04.55.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Drawings/Drawing 2025-10-07 02.04.55.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -125,6 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Drawings/Drawing 2025-10-07 02.04.55.excalidraw.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -144,9 +149,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "43d4270dcc3e7e9b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Daily/2025-10-05.md"
+  ]
 }
