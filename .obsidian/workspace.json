@@ -11,12 +11,14 @@
             "id": "3f10e7341bcbc15f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawings/Drawing 2025-10-07 02.04.55.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-07 02.04.55.excalidraw"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -207,13 +209,13 @@
   },
   "active": "3f10e7341bcbc15f",
   "lastOpenFiles": [
-    "README.md",
+    "Welcome.md",
     "Drawings/Drawing 2025-10-07 02.04.55.excalidraw.md",
+    "README.md",
     "Excalidraw/Drawing 2025-10-07 01.47.16.excalidraw.md",
     "Drawings",
     "Excalidraw/Drawing 2025-10-06 22.36.44.excalidraw.md",
     "Daily/2025-10-05.md",
-    "Welcome.md",
     "Excalidraw/Drawing 2025-10-06 22.44.27.excalidraw.md",
     "Google.md",
     "Academic",
