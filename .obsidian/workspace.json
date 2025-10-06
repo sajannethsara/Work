@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "d3f9b7265bdf8a6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "07aa8ca18aab817c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f10e7341bcbc15f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/Drawing 2025-10-07 02.04.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-07 02.04.55.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "317e79cde7ac77e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "10005ee76f15d186",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1e084d9878e9aba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b5b04a0ad0710d4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8cb86115fcf4c165",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "54631b299bdaf124",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cb06219ce9d4711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f8d835ea0e663eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5a35c653c0a61faf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "88b24e9d8825e602",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60af9bfe13972dc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "floating": {
+    "id": "f48e68ddd292d1e5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3cfcfc6ea9c07d13",
+        "type": "window",
+        "children": [
+          {
+            "id": "a04896f5a311bf18",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "96d3314c5aa82271",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/kevinmkchin/Obsidian-GitHub-Sync/blob/main/README.md",
+                    "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "96d3314c5aa82271",
+  "lastOpenFiles": [
+    "README.md",
+    "Drawings/Drawing 2025-10-07 02.04.55.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-07 01.47.16.excalidraw.md",
+    "Drawings",
+    "Excalidraw/Drawing 2025-10-06 22.36.44.excalidraw.md",
+    "Daily/2025-10-05.md",
+    "Welcome.md",
+    "Excalidraw/Drawing 2025-10-06 22.44.27.excalidraw.md",
+    "Google.md",
+    "Academic",
+    "Flutter documentation.md",
+    "Flutter Cheat-Sheet.md",
+    "Excalidraw",
+    "Daily"
+  ]
+}

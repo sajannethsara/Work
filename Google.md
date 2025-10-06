@@ -1,0 +1,1 @@
+Google offered in: [සිංහල](https://www.google.com/setprefs?sig=0_df0kxk0jze_QfYjZIIEuxpjtKso%3D&hl=si&source=homepage&sa=X&ved=0ahUKEwi9ttvxjJCQAxVyna8BHZivE9EQ2ZgBCBY) [தமிழ்](https://www.google.com/setprefs?sig=0_df0kxk0jze_QfYjZIIEuxpjtKso%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwi9ttvxjJCQAxVyna8BHZivE9EQ2ZgBCBc)
