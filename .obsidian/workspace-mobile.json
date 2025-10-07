@@ -23,14 +23,12 @@
             "id": "a5e2013aeb9e030e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Drawings/Drawing 2025-10-07 11.37.12.excalidraw.md",
-                "mode": "source",
-                "source": false
+                "file": "Drawings/Drawing 2025-10-07 21.35.11.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Drawing 2025-10-07 11.37.12.excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-07 21.35.11.excalidraw"
             }
           }
         ],
@@ -171,8 +169,8 @@
   },
   "active": "a5e2013aeb9e030e",
   "lastOpenFiles": [
-    "Drawings/Drawing Instruction Sets.excalidraw.md",
     "Drawings/Drawing 2025-10-07 11.37.12.excalidraw.md",
+    "Drawings/Drawing Instruction Sets.excalidraw.md",
     "Drawings/Drawing 2025-10-07 21.35.11.excalidraw.md",
     "Academic/PDF/Tute_ Pipelined Microprocessor.pdf",
     "Academic/Instruction Sets, Addressing Modes, and Formats.md",
