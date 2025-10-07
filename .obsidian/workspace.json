@@ -163,55 +163,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
-  },
-  "floating": {
-    "id": "f48e68ddd292d1e5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3cfcfc6ea9c07d13",
-        "type": "window",
-        "children": [
-          {
-            "id": "a04896f5a311bf18",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "96d3314c5aa82271",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/kevinmkchin/Obsidian-GitHub-Sync/blob/main/README.md",
-                    "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
   },
   "active": "3f10e7341bcbc15f",
   "lastOpenFiles": [
+    "README.md",
     "Welcome.md",
     "Drawings/Drawing 2025-10-07 02.04.55.excalidraw.md",
-    "README.md",
     "Excalidraw/Drawing 2025-10-07 01.47.16.excalidraw.md",
     "Drawings",
     "Excalidraw/Drawing 2025-10-06 22.36.44.excalidraw.md",
