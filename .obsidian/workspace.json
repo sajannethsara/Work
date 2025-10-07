@@ -25,14 +25,12 @@
             "id": "977b2e4a6cc8e70d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Academic/CA.md",
-                "mode": "source",
-                "source": false
+                "file": "Drawings/Drawing Instruction Sets.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "CA"
+              "icon": "excalidraw-icon",
+              "title": "Drawing Instruction Sets.excalidraw"
             }
           }
         ],
@@ -155,30 +153,22 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Drawings/Drawing Instruction Sets.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "d46cc0b9f6b7c1e9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Drawing Instruction Sets.excalidraw"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +186,16 @@
   },
   "active": "977b2e4a6cc8e70d",
   "lastOpenFiles": [
-    "README.md",
+    "Academic/PDF/Instruction Sets_ Addressing Modes and Formats.pptx.pdf",
+    "Drawings/Drawing Instruction Sets.excalidraw.md",
+    "Academic/PDF/CPU Structure and Instruction Set Architecture (1).pdf",
+    "Academic/PDF/2. Evalution Of Computers.pdf",
     "Academic/CA.md",
+    "Academic/PDF",
+    "Academic/New folder",
+    "README.md",
     "Academic",
     "Welcome.md",
-    "Drawings/Drawing 2025-10-07 02.04.55.excalidraw.md",
     "Excalidraw/Drawing 2025-10-07 01.47.16.excalidraw.md",
     "Drawings",
     "Excalidraw/Drawing 2025-10-06 22.36.44.excalidraw.md",
