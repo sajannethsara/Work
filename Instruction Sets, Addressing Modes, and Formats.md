@@ -424,7 +424,4 @@ Would you like me to continue with a **visual-style summary sheet (like for quic
 | **Base Scaled Index + Displacement** | Most flexible mode; combines base, index, scale, and displacement.                        | 🚀 Fast   | `MOV AX, [BX + 4*SI + 100]`                     | **EA = BX + (4 × SI) + 100**                                     |
 
 
-x
-=======
-Would you like me to continue with a **visual-style summary sheet (like for quick revision before the exam)** — showing all addressing modes in one diagram/table with memory examples?
->>>>>>> ada8777a43a7959832bd9cc6f2b499f8071c0f49
+xxxxxx
