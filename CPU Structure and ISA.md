@@ -1,7 +1,7 @@
 
 ---
 
-# 🌟 Chapter 1: Introduction to Computer Architecture
+# 🌟 Chapt22er 1: Introduction to Computer Architecture
 
 ### What is Computer Architecture?
 
@@ -22,12 +22,12 @@ It includes:
 
 ## 🧩 Computer Architecture vs Computer Organization
 
-|Aspect|Computer Architecture|Computer Organization|
-|---|---|---|
-|Focus|What the system **does**|How it **does** it|
-|Visible to programmer?|✅ Yes|❌ No|
-|Examples|Instruction set, data types|Clock speed, memory size|
-|Analogy|Blueprint of the house|The plumbing and wiring inside|
+| Aspect                 | Computer Architecture       | Computer Organization          |
+| ---------------------- | --------------------------- | ------------------------------ |
+| Focus                  | What the system **does**    | How it **does** it             |
+| Visible to programmer? | ✅ Yesssss                   | ❌ No                           |
+| Examples               | Instruction set, data types | Clock speed, memory size       |
+| Analogy                | Blueprint of the house      | The plumbing and wiring inside |
 
 💡 **Tip to remember:**  
 Architecture = _Visible (Logic)_  
@@ -135,7 +135,7 @@ A computer architect:
 
 ---
 
-## 💰 Computer Cost Factors
+## 💰 Computer Cost Factors 22
 
 1. Hardware design cost
     
