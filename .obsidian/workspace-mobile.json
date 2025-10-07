@@ -11,12 +11,14 @@
             "id": "43d4270dcc3e7e9b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawings/Drawing Instruction Sets.excalidraw.md"
+                "file": "Instruction Sets, Addressing Modes, and Formats.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing Instruction Sets.excalidraw"
+              "icon": "lucide-file",
+              "title": "Instruction Sets, Addressing Modes, and Formats"
             }
           }
         ]
@@ -156,8 +158,11 @@
   },
   "active": "43d4270dcc3e7e9b",
   "lastOpenFiles": [
-    "Academic/CA.md",
     "Drawings/Drawing Instruction Sets.excalidraw.md",
+    "Instruction Sets, Addressing Modes, and Formats.md",
+    "Drawings/Drawing 2025-10-07 11.37.12.excalidraw.md",
+    "CPU Structure and ISA.md",
+    "Academic/CA.md",
     "Academic/PDF/Instruction Sets_ Addressing Modes and Formats.pptx.pdf",
     "Academic/PDF/CPU Structure and Instruction Set Architecture (1).pdf",
     "Academic/PDF/2. Evalution Of Computers.pdf",
