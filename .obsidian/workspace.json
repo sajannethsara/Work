@@ -53,14 +53,12 @@
             "id": "6093aeb7cb102916",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Instruction Sets, Addressing Modes, and Formats.md",
-                "mode": "source",
-                "source": false
+                "file": "Drawings/Drawing Instruction Sets.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Instruction Sets, Addressing Modes, and Formats"
+              "icon": "excalidraw-icon",
+              "title": "Drawing Instruction Sets.excalidraw"
             }
           },
           {
@@ -211,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instruction Sets, Addressing Modes, and Formats.md",
+                "file": "Drawings/Drawing Instruction Sets.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Instruction Sets, Addressing Modes, and Formats"
+              "title": "Outline of Drawing Instruction Sets.excalidraw"
             }
           },
           {
@@ -253,13 +251,15 @@
   },
   "active": "6093aeb7cb102916",
   "lastOpenFiles": [
-    "Drawings/Drawing Instruction Sets.excalidraw.md",
-    "Academic/PDF/Instruction Sets_ Addressing Modes and Formats.pptx.pdf",
-    "Instruction Sets, Addressing Modes, and Formats.md",
-    "Academic/PDF/CPU Structure and Instruction Set Architecture (1).pdf",
-    "CPU Structure and ISA.md",
     "Drawings/Drawing 2025-10-07 11.37.12.excalidraw.md",
+    "Academic/PDF/Instruction Sets_ Addressing Modes and Formats.pptx.pdf",
     "Academic/PDF/2. Evalution Of Computers.pdf",
+    "Academic/PDF/Tute_ Pipelined Microprocessor.pdf",
+    "Academic/PDF/Tute_ Pipelined Microprocessor.pdf.fdmdownload",
+    "Academic/PDF/CPU Structure and Instruction Set Architecture (1).pdf",
+    "Instruction Sets, Addressing Modes, and Formats.md",
+    "Drawings/Drawing Instruction Sets.excalidraw.md",
+    "CPU Structure and ISA.md",
     "Academic/CA.md",
     "Academic/PDF",
     "Academic/New folder",
@@ -274,8 +274,6 @@
     "Google.md",
     "Academic",
     "Flutter documentation.md",
-    "Flutter Cheat-Sheet.md",
-    "Excalidraw",
-    "Daily"
+    "Flutter Cheat-Sheet.md"
   ]
 }
