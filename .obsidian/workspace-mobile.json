@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruction Sets, Addressing Modes, and Formats.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instruction Sets, Addressing Modes, and Formats"
+              "title": "README"
             }
           }
         ]
@@ -158,8 +158,8 @@
   },
   "active": "43d4270dcc3e7e9b",
   "lastOpenFiles": [
-    "README.md",
     "Instruction Sets, Addressing Modes, and Formats.md",
+    "README.md",
     "Drawings/Drawing Instruction Sets.excalidraw.md",
     "Drawings/Drawing 2025-10-07 11.37.12.excalidraw.md",
     "CPU Structure and ISA.md",
