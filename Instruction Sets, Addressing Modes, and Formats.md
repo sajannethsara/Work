@@ -407,17 +407,3 @@ Try memorizing by _seeing the pattern:_
 ---
 
 Would you like me to continue with a **visual-style summary sheet (like for quick revision before the exam)** — showing all addressing modes in one diagram/table with memory examples?
-
-# 📘 Addressing Modes – Description, Speed, Example & EA Formula
-
-| **Mode**                             | **Description**                                                                           | **Speed** | **Example (x86)**                               | **EA (Effective Address) Formula**                               |
-| ------------------------------------ | ----------------------------------------------------------------------------------------- | --------- | ----------------------------------------------- | ---------------------------------------------------------------- |
-| **Immediate**                        | The operand’s value is included directly inside the instruction. No memory access needed. | ⚡ Fast    | `MOV AX, 5`                                     | — (No EA — data is part of instruction)                          |
-| **Direct (Displacement)**            | The instruction contains the **exact memory address** of the operand.                     | 🚀 Medium | `MOV AX, [1000]`                                | **EA = 1000**                                                    |
-| **Indirect (Memory-Indirect)**       | The given address points to another memory location that contains the operand address.    | 🐢 Slow   | `MOV AX, [[1000]]`                              | **EA = (1000)** → content at address 1000 gives the real address |
-| **Register**                         | Operand is inside a CPU register. No memory access.                                       | ⚡ Fastest | `ADD AX, BX`                                    | **EA = Register name (AX/BX)**                                   |
-| **Register Indirect**                | Register holds a **memory address**, and the operand is fetched from that address.        | 🚀 Fast   | `MOV AX, [BX]`                                  | **EA = (BX)**                                                    |
-| **Displacement (Base + Offset)**     | Combines a register’s content (base) and a constant offset.                               | 🚀 Fast   | `MOV AX, [BX + 4]`                              | **EA = BX + 4**                                                  |
-| **Relative (PC-relative)**           | Effective address = current program counter + offset (used for jumps and branches).       | 🚀 Fast   | `JMP LOOP`                                      | **EA = PC + Offset**                                             |
-| **Indexed (Base + Index)**           | Combines a base address and an index register (often with a scale factor for arrays).     | 🚀 Fast   | `MOV AX, [BASE + INDEX]` or `MOV AX, [SI + DI]` | **EA = Base + Index × Scale**                                    |
-| **Base Scaled Index + Displacement** | Most flexible mode; combines base, index, scale, and displacement.                        | 🚀 Fast   | `MOV AX, [BX + 4*SI + 100]`                     | **EA = BX + (4 × SI) + 100**                                     |
