@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "37cf2b5b5101ceba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/Drawing 2025-10-07 21.35.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-07 21.35.11.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Drawings/Drawing 2025-10-07 21.35.11.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Drawing 2025-10-07 21.35.11.excalidraw"
             }
           },
           {
@@ -180,8 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d51462654a93199",
+  "active": "37cf2b5b5101ceba",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Drawings/Drawing 2025-10-07 21.35.11.excalidraw.md",
     "README.md",
     "Flutter Cheat-Sheet.md",
     "Google.md",
@@ -199,7 +214,6 @@
     "Academic/PDF",
     "Academic/New folder",
     "Academic",
-    "Welcome.md",
     "Excalidraw/Drawing 2025-10-07 01.47.16.excalidraw.md",
     "Drawings",
     "Excalidraw/Drawing 2025-10-06 22.36.44.excalidraw.md",
