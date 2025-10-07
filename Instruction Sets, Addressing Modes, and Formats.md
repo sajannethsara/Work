@@ -421,3 +421,6 @@ Would you like me to continue with a **visual-style summary sheet (like for quic
 | **Relative (PC-relative)**           | Effective address = current program counter + offset (used for jumps and branches).       | 🚀 Fast   | `JMP LOOP`                                      | **EA = PC + Offset**                                             |
 | **Indexed (Base + Index)**           | Combines a base address and an index register (often with a scale factor for arrays).     | 🚀 Fast   | `MOV AX, [BASE + INDEX]` or `MOV AX, [SI + DI]` | **EA = Base + Index × Scale**                                    |
 | **Base Scaled Index + Displacement** | Most flexible mode; combines base, index, scale, and displacement.                        | 🚀 Fast   | `MOV AX, [BX + 4*SI + 100]`                     | **EA = BX + (4 × SI) + 100**                                     |
+
+
+x
