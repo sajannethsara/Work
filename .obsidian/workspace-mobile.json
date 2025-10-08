@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Academic/PDF/CA/2. Evalution Of Computers.pdf"
+                "file": "Academic/PDF/OS/Chapter 03.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2. Evalution Of Computers"
+              "title": "Chapter 03"
             }
           }
         ],
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Academic/PDF/CA/2. Evalution Of Computers.pdf",
+            "file": "Academic/PDF/OS/Chapter 03.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,11 +169,11 @@
   },
   "active": "a5e2013aeb9e030e",
   "lastOpenFiles": [
+    "Academic/PDF/CA/2. Evalution Of Computers.pdf",
     "Academic/CA.md",
     "MyTemplate/API Contract.md",
     "MyTemplate/UserFlow.excalidraw.md",
     "Academic/CPU Structure and ISA.md",
-    "Academic/PDF/CA/2. Evalution Of Computers.pdf",
     "Academic/Chap1.md",
     "Drawings/Drawing 2025-10-07 21.35.11.excalidraw.md",
     "Drawings/Drawing 2025-10-07 11.37.12.excalidraw.md",
