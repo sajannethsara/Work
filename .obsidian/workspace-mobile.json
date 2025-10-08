@@ -23,12 +23,14 @@
             "id": "a5e2013aeb9e030e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "MyTemplate/UserFlow.excalidraw.md"
+                "file": "Academic/CPU Structure and ISA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "UserFlow.excalidraw"
+              "icon": "lucide-file",
+              "title": "CPU Structure and ISA"
             }
           }
         ],
@@ -169,7 +171,10 @@
   },
   "active": "a5e2013aeb9e030e",
   "lastOpenFiles": [
+    "Academic/CA.md",
+    "Academic/PDF/CA/2. Evalution Of Computers.pdf",
     "Academic/Chap1.md",
+    "MyTemplate/UserFlow.excalidraw.md",
     "MyTemplate/API Contract.md",
     "Drawings/Drawing 2025-10-07 21.35.11.excalidraw.md",
     "Drawings/Drawing 2025-10-07 11.37.12.excalidraw.md",
@@ -182,7 +187,6 @@
     "Academic/PDF/Instruction Sets_ Addressing Modes and Formats.pptx.pdf",
     "Academic/PDF/2. Evalution Of Computers.pdf",
     "README.md",
-    "Academic/CA.md",
     "Academic/PDF/CPU Structure and Instruction Set Architecture (1).pdf",
     "Academic/PDF",
     "Academic",
