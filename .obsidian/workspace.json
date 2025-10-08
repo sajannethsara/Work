@@ -27,14 +27,52 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Drawings/Drawing 2025-10-07 21.35.11.excalidraw.md"
+                "file": "MyTemplate/UserFlow.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-07 21.35.11.excalidraw"
+              "title": "UserFlow.excalidraw"
+            }
+          },
+          {
+            "id": "b277174ff99bccc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Chap1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chap1"
+            }
+          },
+          {
+            "id": "46547f9693eca7da",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "366dd3a7af6fe89d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://libraries.excalidraw.com/?target=_blank&referrer=app%3A%2F%2Fobsidian.md&useHash=true&token=yFf8lAfdEYyq65iNX13as&theme=dark&version=2&sort=default",
+                "title": "Excalidraw Libraries",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Excalidraw Libraries"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawings/Drawing 2025-10-07 21.35.11.excalidraw.md",
+                "file": "Academic/Chap1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-10-07 21.35.11.excalidraw"
+              "title": "Outline of Chap1"
             }
           },
           {
@@ -173,11 +211,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,32 +232,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37cf2b5b5101ceba",
+  "active": "b277174ff99bccc0",
   "lastOpenFiles": [
+    "MyTemplate/API Contract.md",
+    "Academic/Chap1.md",
+    "Academic/PDF/OS/Introduction.pdf",
+    "Academic/PDF/OS/Introduction.pdf.fdmdownload",
+    "Academic/PDF/OS/Chapter 03.pdf",
+    "Academic/PDF/OS/Chapter 03.pdf.fdmdownload",
+    "Academic/PDF/OS/processes_chapter 02.pdf",
+    "Academic/PDF/OS/processes_chapter 02.pdf.fdmdownload",
+    "Academic/PDF/OS/Operating_System_Structures_Chapter 1.pdf",
+    "Academic/PDF/OS/Operating_System_Structures_Chapter 1.pdf.fdmdownload",
+    "Academic/PDF/OS",
+    "Academic/PDF/CA/Tute_ Pipelined Microprocessor.pdf",
+    "MyTemplate/UserFlow.excalidraw.md",
     "Drawings/Drawing 2025-10-07 11.37.12.excalidraw.md",
     "Welcome.md",
     "README.md",
-    "Drawings/Drawing 2025-10-07 21.35.11.excalidraw.md",
     "Flutter Cheat-Sheet.md",
     "Google.md",
     "Flutter documentation.md",
     "Academic/CPU Structure and ISA.md",
     "Academic/Instruction Sets, Addressing Modes, and Formats.md",
     "Drawings/Drawing Instruction Sets.excalidraw.md",
-    "Academic/PDF/Instruction Sets_ Addressing Modes and Formats.pptx.pdf",
-    "Academic/PDF/2. Evalution Of Computers.pdf",
-    "Academic/PDF/Tute_ Pipelined Microprocessor.pdf",
-    "Academic/PDF/Tute_ Pipelined Microprocessor.pdf.fdmdownload",
-    "Academic/PDF/CPU Structure and Instruction Set Architecture (1).pdf",
     "Academic/CA.md",
-    "Academic/PDF",
-    "Academic/New folder",
-    "Academic",
     "Excalidraw/Drawing 2025-10-07 01.47.16.excalidraw.md",
-    "Drawings",
     "Excalidraw/Drawing 2025-10-06 22.36.44.excalidraw.md",
     "Daily/2025-10-05.md",
-    "Excalidraw/Drawing 2025-10-06 22.44.27.excalidraw.md",
-    "Academic"
+    "Excalidraw/Drawing 2025-10-06 22.44.27.excalidraw.md"
   ]
 }
