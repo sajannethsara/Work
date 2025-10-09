@@ -11,14 +11,17 @@
             "id": "1d51462654a93199",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "MyTemplate/Untitled.canvas",
+                "viewState": {
+                  "x": 25.465291668654615,
+                  "y": -41.42416307628802,
+                  "zoom": -0.03395062417650417
+                }
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -37,54 +40,18 @@
             "id": "b277174ff99bccc0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "MyTemplate/UserFlow.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "UserFlow.excalidraw"
-            }
-          },
-          {
-            "id": "ee324640f3071f45",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "MyTemplate/UserFlow.excalidraw.md",
+                "file": "Drawings/Drawing Instruction Sets.excalidraw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UserFlow.excalidraw"
-            }
-          },
-          {
-            "id": "46547f9693eca7da",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "366dd3a7af6fe89d",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://libraries.excalidraw.com/?target=_blank&referrer=app%3A%2F%2Fobsidian.md&useHash=true&token=yFf8lAfdEYyq65iNX13as&theme=dark&version=2&sort=default",
-                "title": "Excalidraw Libraries",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Excalidraw Libraries"
+              "title": "Drawing Instruction Sets.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyTemplate/UserFlow.excalidraw.md",
+                "file": "Drawings/Drawing Instruction Sets.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of UserFlow.excalidraw"
+              "title": "Outline of Drawing Instruction Sets.excalidraw"
             }
           },
           {
@@ -244,12 +211,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee324640f3071f45",
+  "active": "b277174ff99bccc0",
   "lastOpenFiles": [
-    "MyTemplate/API Contract.md",
-    "MyTemplate/Drawing 2025-10-09 03.31.56.excalidraw.md",
-    "Drawings/Drawing Instruction Sets.excalidraw.md",
     "MyTemplate/UserFlow.excalidraw.md",
+    "MyTemplate/Untitled.canvas",
+    "Welcome.md",
+    "MyTemplate/Drawing 2025-10-09 03.31.56.excalidraw.md",
+    "MyTemplate/API Contract.md",
+    "Drawings/Drawing Instruction Sets.excalidraw.md",
     "Academic/Chap1.md",
     "Academic/PDF/OS/Introduction.pdf",
     "Academic/PDF/OS/Introduction.pdf.fdmdownload",
@@ -262,7 +231,6 @@
     "Academic/PDF/OS",
     "Academic/PDF/CA/Tute_ Pipelined Microprocessor.pdf",
     "Drawings/Drawing 2025-10-07 11.37.12.excalidraw.md",
-    "Welcome.md",
     "README.md",
     "Flutter Cheat-Sheet.md",
     "Google.md",

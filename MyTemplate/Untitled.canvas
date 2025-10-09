@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"9e3e7ca48609ea0f","x":-360,"y":-420,"width":660,"height":660,"type":"text","text":"## Users : Collection\n```json\n{\n\t\"_id\":\"123-auto-gen-123\",\n\t\"email\":\"nethsaradws.23@uom.lk\",\n\t\"name\":\"Sajan Nethsara\",\n\t\"currency\":\"LKR\",\n\t\"plan\":\"free\",\n\t\"usages\":{\n\t\tfeture1_usage:3, //max usage 0f 3 (cannot use again)\n\t\tfeture2_usage:2, //have one more (3-2 = 1)\n\t\tfeture3_usage:0, \n\t}\n\t\"spaces\":{\n\t\t\"personal\":ObjectID(\"456-auto-gen-456\"),\n\t\t\"others\":[\n\t\tObjectID(\"456-auto-gen-456\"),\n\t\tObjectID(\"456-auto-gen-456\"),\n\t\t]\n\t},\n\t\"\":\"\"\n}\n\n```"}
+	],
+	"edges":[]
+}
