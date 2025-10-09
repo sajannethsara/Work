@@ -23,12 +23,12 @@
             "id": "a5e2013aeb9e030e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Drawings/Drawing 2025-10-07 21.35.11.excalidraw.md"
+                "file": "Academic/PDF/OS/Chapter 03.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-07 21.35.11.excalidraw"
+              "icon": "lucide-file-text",
+              "title": "Chapter 03"
             }
           }
         ],
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Drawings/Drawing 2025-10-07 02.04.55.excalidraw.md",
+            "file": "Academic/PDF/OS/Chapter 03.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,18 +169,22 @@
   },
   "active": "a5e2013aeb9e030e",
   "lastOpenFiles": [
+    "Academic/PDF/CA/2. Evalution Of Computers.pdf",
+    "Academic/CA.md",
+    "MyTemplate/API Contract.md",
+    "MyTemplate/UserFlow.excalidraw.md",
+    "Academic/CPU Structure and ISA.md",
+    "Academic/Chap1.md",
+    "Drawings/Drawing 2025-10-07 21.35.11.excalidraw.md",
     "Drawings/Drawing 2025-10-07 11.37.12.excalidraw.md",
     "Drawings/Drawing Instruction Sets.excalidraw.md",
-    "Drawings/Drawing 2025-10-07 21.35.11.excalidraw.md",
     "Academic/PDF/Tute_ Pipelined Microprocessor.pdf",
     "Academic/Instruction Sets, Addressing Modes, and Formats.md",
-    "Academic/CPU Structure and ISA.md",
     "CPU Structure and ISA.md",
     "Instruction Sets, Addressing Modes, and Formats.md",
     "Academic/PDF/Instruction Sets_ Addressing Modes and Formats.pptx.pdf",
     "Academic/PDF/2. Evalution Of Computers.pdf",
     "README.md",
-    "Academic/CA.md",
     "Academic/PDF/CPU Structure and Instruction Set Architecture (1).pdf",
     "Academic/PDF",
     "Academic",
