@@ -7,7 +7,7 @@ These are the core functions an OS provides to users and programs:
 
 - **User Interface (UI):** Graphical (Windows) or command-line (Linux shell).
 - **Program Execution:** Load, run, and terminate applications.
-- **I/O Operations:** Manage input/output devices like keyboards and printers.
+- **I/O Operations:** Manage  input/output devices like keyboards and printers.
 - **File System Manipulation:** Create, read, write, and delete files.
 - **Communication:** Enable processes to talk to each other (e.g., pipes, sockets).
 - **Error Detection:** Spot and recover from hardware/software issues.
