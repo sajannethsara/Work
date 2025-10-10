@@ -23,12 +23,12 @@
             "id": "a5e2013aeb9e030e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Academic/PDF/OS/Chapter 03.pdf"
+                "file": "Drawings/Drawing 2025-10-07 11.37.12.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Chapter 03"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-07 11.37.12.excalidraw"
             }
           }
         ],
@@ -169,6 +169,9 @@
   },
   "active": "a5e2013aeb9e030e",
   "lastOpenFiles": [
+    "MyTemplate/Untitled.canvas",
+    "Academic/PDF/OS/Chapter 03.pdf",
+    "MyTemplate/Drawing 2025-10-09 03.31.56.excalidraw.md",
     "Academic/PDF/CA/2. Evalution Of Computers.pdf",
     "Academic/CA.md",
     "MyTemplate/API Contract.md",
