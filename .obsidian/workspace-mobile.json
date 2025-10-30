@@ -68,17 +68,14 @@
             "id": "b19e9d8144fe00df",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MyTemplate/Untitled.canvas",
-                "viewState": {
-                  "x": -90.05834804486182,
-                  "y": -368.84260592495446,
-                  "zoom": -0.8208311543140681
-                }
+                "file": "MyTemplate/API Contract.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "API Contract"
             }
           }
         ],
@@ -219,12 +216,12 @@
   },
   "active": "b19e9d8144fe00df",
   "lastOpenFiles": [
+    "MyTemplate/Untitled.canvas",
     "MyTemplate/Drawing 2025-10-09 03.31.56.excalidraw.md",
     "MyTemplate/API Contract.md",
     "Drawing 2025-10-17 10.05.13.excalidraw.md",
     "Untitled 1.md",
     "Untitled.md",
-    "MyTemplate/Untitled.canvas",
     "Drawings/Drawing 2025-10-07 11.37.12.excalidraw.md",
     "Academic/PDF/OS/Chapter 03.pdf",
     "Academic/PDF/CA/2. Evalution Of Computers.pdf",
