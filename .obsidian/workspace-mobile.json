@@ -68,14 +68,17 @@
             "id": "b19e9d8144fe00df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MyTemplate/API Contract.md",
-                "mode": "source",
-                "source": false
+                "file": "MyTemplate/Untitled.canvas",
+                "viewState": {
+                  "x": -90.05834804486182,
+                  "y": -368.84260592495446,
+                  "zoom": -0.8208311543140681
+                }
               },
-              "icon": "lucide-file",
-              "title": "API Contract"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -216,9 +219,9 @@
   },
   "active": "b19e9d8144fe00df",
   "lastOpenFiles": [
+    "MyTemplate/API Contract.md",
     "MyTemplate/Untitled.canvas",
     "MyTemplate/Drawing 2025-10-09 03.31.56.excalidraw.md",
-    "MyTemplate/API Contract.md",
     "Drawing 2025-10-17 10.05.13.excalidraw.md",
     "Untitled 1.md",
     "Untitled.md",
