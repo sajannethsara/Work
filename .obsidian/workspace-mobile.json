@@ -87,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "SE/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Docker"
             }
           }
         ],
@@ -233,6 +233,7 @@
   },
   "active": "3bcaacb276aaad98",
   "lastOpenFiles": [
+    "Welcome.md",
     "TheTemplate.zip",
     "syllabus/OS 2.md",
     "syllabus",
@@ -262,10 +263,8 @@
     "Academic/Sajan Nethsara CV - IT2.pdf",
     "Academic/Sajan Nethsara CV - IT.pdf",
     "Java - OOP.md",
-    "Welcome.md",
     "MyTemplate/API Contract.md",
     "MyTemplate/Untitled.canvas",
-    "OOP Java",
     "MyTemplate/Drawing 2025-10-09 03.31.56.excalidraw.md",
     "Drawing 2025-10-17 10.05.13.excalidraw.md",
     "Untitled 1.md",
