@@ -15,10 +15,9 @@
   "success": true,
   "user": {
     "id": "12132321313jb434b34",
-    "activeSpaceId" : "12132321313jb434b3nh",
+    "pesonalSpaceId": "12132321313jb434b34",
     "role": "user",
     "plan": "free",
-    "pesonalSpaceId": "12132321313jb434b34",
     
   }
 }
