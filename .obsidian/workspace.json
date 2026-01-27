@@ -250,8 +250,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1ae0aa02ed1f601",
+  "active": "115ff3df574ec816",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Java - OOP.md",
+    "Drawing 2025-10-17 10.05.13.excalidraw.md",
     "SE/Docker.md",
     "SE/Kubernetes.md",
     "SE/Testing - Note.md",
@@ -288,9 +291,6 @@
     "Projects/FinanceApp/FinaceApp/FinaceApp/MyTemplate/MyTemplate/UserFlow.excalidraw.md",
     "Projects/FinanceApp/FinaceApp/FinaceApp/MyTemplate/MyTemplate/DB-Schema.canvas",
     "Projects/FinanceApp/FinaceApp/FinaceApp/MyTemplate/MyTemplate/DB-Digram.excalidraw.md",
-    "Projects/FinanceApp/FinaceApp/FinaceApp/MyTemplate/MyTemplate/API Contract.md",
-    "Projects/FinanceApp/FinaceApp/FinaceApp/Welcome.md",
-    "MyTemplate/DB-Digram.excalidraw.md",
-    "Drawings/Drawing Instruction Sets.excalidraw.md"
+    "Projects/FinanceApp/FinaceApp/FinaceApp/MyTemplate/MyTemplate/API Contract.md"
   ]
 }
