@@ -87,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyTemplate/API Contract.md",
+                "file": "Java - OOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API Contract"
+              "title": "Java - OOP"
             }
           }
         ],
@@ -173,7 +173,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Academic/PDF/OS/Chapter 03.pdf",
+            "file": "Java - OOP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -233,10 +233,10 @@
   },
   "active": "3bcaacb276aaad98",
   "lastOpenFiles": [
+    "MyTemplate/API Contract.md",
     "Java - OOP.md",
     "MyTemplate/Untitled.canvas",
     "OOP Java",
-    "MyTemplate/API Contract.md",
     "MyTemplate/Drawing 2025-10-09 03.31.56.excalidraw.md",
     "Drawing 2025-10-17 10.05.13.excalidraw.md",
     "Untitled 1.md",
