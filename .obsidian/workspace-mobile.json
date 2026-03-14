@@ -87,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Docker.md",
+                "file": "SE/Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Kubernetes"
             }
           }
         ],
@@ -233,6 +233,8 @@
   },
   "active": "3bcaacb276aaad98",
   "lastOpenFiles": [
+    "SE/Test NG.md",
+    "SE/Docker.md",
     "Welcome.md",
     "TheTemplate.zip",
     "syllabus/OS 2.md",
@@ -241,11 +243,9 @@
     "SEM3/OS",
     "SEM3",
     "SE/Testing - Note.md",
-    "SE/Test NG.md",
     "SE/Selenium.md",
     "SE/Maven.md",
     "SE/Kubernetes.md",
-    "SE/Docker.md",
     "SE",
     "Projects/FinanceApp/UserFlow.excalidraw.md",
     "Projects/FinanceApp/DB-Schema2.canvas",
